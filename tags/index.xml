@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Shreenath Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 23:13:19 -0800</lastBuildDate>
     
 	<atom:link href="https://shreenathiyer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://shreenathiyer.github.io/tags/blockchain/</link>
+      <pubDate>Mon, 11 Feb 2019 23:13:19 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://shreenathiyer.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 11 Feb 2019 21:08:54 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Info Visualization</title>
+      <link>https://shreenathiyer.github.io/tags/info-visualization/</link>
+      <pubDate>Mon, 11 Feb 2019 21:34:13 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/tags/info-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SW Engineering</title>
+      <link>https://shreenathiyer.github.io/tags/sw-engineering/</link>
+      <pubDate>Mon, 11 Feb 2019 21:33:31 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/tags/sw-engineering/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
