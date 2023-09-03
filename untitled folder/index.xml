@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreenath Iyer on Shreenath Iyer</title>
+    <link>https://shreenathiyer.github.io/</link>
+    <description>Recent content in Shreenath Iyer on Shreenath Iyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 23:13:19 -0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proof of Work</title>
+      <link>https://shreenathiyer.github.io/project/proof-of-work/</link>
+      <pubDate>Mon, 11 Feb 2019 23:13:19 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/proof-of-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pokemon Visualization</title>
+      <link>https://shreenathiyer.github.io/project/pokemon-visualization/</link>
+      <pubDate>Mon, 11 Feb 2019 21:34:13 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/pokemon-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp Visualization</title>
+      <link>https://shreenathiyer.github.io/project/nlp-visualization/</link>
+      <pubDate>Mon, 11 Feb 2019 21:33:59 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/nlp-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pivot Paths</title>
+      <link>https://shreenathiyer.github.io/project/pivot-paths/</link>
+      <pubDate>Mon, 11 Feb 2019 21:33:41 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/pivot-paths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bug Miner</title>
+      <link>https://shreenathiyer.github.io/project/bug-miner/</link>
+      <pubDate>Mon, 11 Feb 2019 21:33:31 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/bug-miner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition</title>
+      <link>https://shreenathiyer.github.io/project/facial-expression-recognition/</link>
+      <pubDate>Mon, 11 Feb 2019 21:08:54 -0800</pubDate>
+      
+      <guid>https://shreenathiyer.github.io/project/facial-expression-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
