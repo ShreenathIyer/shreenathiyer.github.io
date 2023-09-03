@@ -1,5 +1,5 @@
 [submodule "themes/aafu"]
-        path = themes/aafu
+        path = shreenathiyer.github.io/themes/aafu
         url = https://github.com/darshanbaral/aafu
 [submodule "public"]
         path = public
