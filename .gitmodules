@@ -1,7 +1,7 @@
 [submodule "themes/aafu"]
-        path = shreenathiyer.github.io/themes/aafu
-        url = https://github.com/darshanbaral/aafu
+	path = themes/aafu
+	url = https://github.com/darshanbaral/aafu
 [submodule "public"]
-        path = public
-        url = https://github.com/ShreenathIyer/ShreenathIyer.github.io.git
-        branch = master
+	path = public
+	url = https://github.com/ShreenathIyer/ShreenathIyer.github.io.git
+	branch = master
