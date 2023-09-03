@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "postcss-cli": "^10.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.8",
+    "postcss": "^8.4.29",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  }
+}
