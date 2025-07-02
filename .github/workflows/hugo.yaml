@@ -54,10 +54,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Install root Node.js dependencies
+        run: npm ci
       - name: Install Toha theme Node.js dependencies
-        run: |
-          cd themes/toha
-          npm install
+        working-directory: themes/toha
+        run: npm ci
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Cache Restore
