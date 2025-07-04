@@ -10,64 +10,61 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: Amazon – Advertising Org
+      url: "https://www.amazon.com"
+      location: Seattle, WA
+      logo: /images/sections/experiences/amazon.png
+      overview: Amazon's Advertising Org empowers advertisers with insights and automation to reach their audiences effectively.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    positions:
+      - designation: Software Development Engineer II
+        start: April 2021
+        responsibilities:
+          - Designed a unified ML orchestration framework using Apache Airflow and AWS EMR Spark, supporting 100+ model training pipelines.
+          - Owned the online causal inference platform for impact estimation, enabling real-time experimentation insights via API Gateway and Sagemaker endpoints.
+          - Delivered high-throughput ingestion pipelines using Step Functions, Elasticsearch, and Athena, improving metrics freshness and usability.
+          - Led infrastructure modernization by tearing down obsolete resources, saving operational cost and streamlining onboarding.
+          - Mentored junior engineers and drove cross-team design reviews, contributing to team-level bar-raising initiatives.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+      - designation: Software Development Engineer I
+        start: August 2019
+        end: March 2021
+        responsibilities:
+          - Re-architected core workflows in the Keyword Recommendation Service to support multi-model inference and training across product lines.
+          - Automated build and deployment pipelines using CodePipeline and Terraform, eliminating 95% of manual intervention.
+          - Managed service migrations from EC2-hosted containers to ECS Fargate for improved scaling and observability.
+          - Collaborated closely with applied scientists to deliver low-latency inference pipelines for ad targeting using SageMaker and EMR.
+          - Championed test-driven development and introduced tooling for integration test coverage, reducing production bugs.
+
+  - company:
+      name: Nokia Nuage Networks
+      url: "https://www.nuagenetworks.net/"
+      location: Mountain View, CA
+      logo: /images/sections/experiences/nokia.png
+      overview: Nuage Networks, a Nokia venture, delivers SDN solutions for scalable cloud networking.
+
+    positions:
+      - designation: Technical Marketing Engineer Intern
+        start: June 2018
+        end: August 2018
+        responsibilities:
+          - Created automation tools to benchmark SDN features and deployment use cases.
+          - Collaborated with cross-functional teams to test customer-facing PoCs.
+
+  - company:
+      name: FIS Global (formerly Sungard)
+      url: "https://www.fisglobal.com/"
+      location: Pune, India
+      logo: /images/sections/experiences/fis.png
+      overview: FIS Global is a multinational financial technology company offering software and services to banks and financial institutions.
+
+    positions:
+      - designation: Product Development Engineer
+        start: June 2015
+        end: July 2017
+        responsibilities:
+          - Migrated MSSQL databases to PostgreSQL to improve query performance in Magellan.
+          - Developed test automation frameworks in Python and Django, integrated with CI tools.
+          - Improved overall performance and reduced maintenance overhead of financial data products.
